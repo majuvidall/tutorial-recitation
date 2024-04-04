@@ -1,2 +1,2 @@
 # tutorial-recitation
-# Tutorial recitation class
+tutorial
